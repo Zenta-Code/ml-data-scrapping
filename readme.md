@@ -1,0 +1,2 @@
+- [x] Mercury
+- [] HTML Scrapping
